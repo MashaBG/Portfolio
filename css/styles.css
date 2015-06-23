@@ -1,11 +1,11 @@
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: "Roboto", sans-serif;
 	color: #747704;
 	font-weight: 300
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .text-thin {
@@ -14,7 +14,7 @@ body{
 
 .title-super {
 	font-size: 40px;
-}	
+}
 
 .title-logo {
 	margin-top: 20px;
